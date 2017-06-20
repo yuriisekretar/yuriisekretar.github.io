@@ -15,3 +15,5 @@ git config user.email "email@example.com"
 ```
 
 Now everytime you commit it will display correct username and email
+
+Approved by Sekretar
