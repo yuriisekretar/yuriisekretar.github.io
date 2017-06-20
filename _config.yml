@@ -14,5 +14,8 @@ author:
 
 version:             1.0.0
 
+github:
+  repo:           https://github.com/yuriisekretar/yuriisekretar.github.io
+
 gems:                [jekyll-paginate]
 
