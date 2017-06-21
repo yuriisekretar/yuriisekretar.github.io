@@ -5,7 +5,9 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <p>{{ site.description }}</p>
+    <h2>{{ site.author.name }}</h2>
+    <p>{{ site.author.description }}</p>
+    <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
   </div>
 
   <nav class="sidebar-nav">

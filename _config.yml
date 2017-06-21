@@ -2,15 +2,15 @@ permalink:           pretty
 
 title:               Sekretar
 tagline:             'Soft and Hard'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://blog.sekretar.im
 baseurl:             ''
 paginate:            1
 
 author:
   name:              Yurii Sekretar
-  url:               https://twitter.com/yu
-  email:             yurii@sekretar.im
+  url:               https://twitter.com/yuriisekretar
+  email:             yuri.sekretar@gmail.com
+  description:       Software developer
 
 version:             1.0.0
 
