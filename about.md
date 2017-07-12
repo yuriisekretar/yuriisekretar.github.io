@@ -2,29 +2,19 @@
 layout: page
 title: About
 ---
+![banner_image](/public/banner_about.jpg)
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey there! I'm Yurii Sekretar, software engineer building local software development agency in Folsom, CA. I started this blog to share experience I get creating products that are used by thousands of people. Blog is about technical, design, social, management topics.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I write code every day and this is where I get motivation. Because one line could change which experience your users have with tool or services they use.
 
-There are currently two themes built on Poole:
+## Bio
+I am working in software development over 14 years. Started as support person answering phone calls at SMS Content provider company in Ukraine and in 6 month developed CRM for whole support team so it made life of whole department easier and customers happy.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I learned if there is a problem - better to dedicate time to learn about process, take time to automate it but result will always be satisfying.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+In 2009 I started company that sells SMS. Simple automation but hundreds of clients already using Bsender more then 8 years to stay in touch with their customers.
 
-## Setup
+My skills include Swift programming for mobile apps and Python for back- and front-end development.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+When I am not writing software, I love spending time with my family, cooking and playing tennis.

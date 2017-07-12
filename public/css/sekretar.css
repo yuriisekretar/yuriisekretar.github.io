@@ -1,0 +1,30 @@
+.social-icons {
+  text-align: center;
+}
+
+.social-icons a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.svg-icon-twitter {
+  fill: #1DA1F2;
+}
+
+.svg-icon-linkedin {
+  fill: #0077B5;
+}
+
+.svg-icon-instagram {
+  fill: #E4405F;
+}
+
+.svg-icon-facebook {
+  fill: #3B5998;
+}
+
+svg {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right: 0.2rem;
+}
