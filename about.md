@@ -4,9 +4,9 @@ title: About
 ---
 ![banner_image](/public/banner_about.jpg)
 
-Hey there! I'm Yurii Sekretar, software engineer building local software development agency in Folsom, CA. I started this blog to share experience I get creating products that are used by thousands of people. Blog is about technical, design, social, management topics.
+Hey there! I'm Yurii Sekretar, a software engineer from Folsom, CA. I started this blog to share experience I get creating products that are used by thousands of people. Blog is about technical, design, social, management topics.
 
-I write code every day and this is where I get motivation. Because one line could change which experience your users have with tool or services they use.
+I write code every day and this is where I get motivation. Because one line could change experience your users have with tool or services they use.
 
 ## Bio
 I am working in software development over 14 years. Started as support person answering phone calls at SMS Content provider company in Ukraine and in 6 month developed CRM for whole support team so it made life of whole department easier and customers happy.
