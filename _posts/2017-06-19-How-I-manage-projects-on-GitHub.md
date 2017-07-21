@@ -27,4 +27,12 @@ To create a version I simply add new Project with a name corresponding to the ve
 
 Once a version is created and issues are assigned to it, use Project columns to organize your workflow. Great introduction to Projects you can read at [GitHub blog](https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features).
 
+## Discipline in a team with Milestones
 
+In my practice for each GitHub repository there is dedicated small team and often people are working remotely. It is important for everybody keep focus during development.
+
+I organize Milestones around small amount of tasks and limit them to one-two weeks. [GitHub Milestones](https://help.github.com/articles/about-milestones/) have all features needed to better manage your project like description, due date and completion percentage. These parameters are very handy during team meetups that take place on a due date of Milestone. 
+
+Milestones like Sprints help project members communicate more effectively especially when working together remotely.
+
+As a result these simple adaptation of GitHub features helps me build software easier and ship high-quality code.
