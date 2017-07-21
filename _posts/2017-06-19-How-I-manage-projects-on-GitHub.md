@@ -31,7 +31,8 @@ Once a version is created and issues are assigned to it, use Project columns to 
 
 In my practice for each GitHub repository there is dedicated small team and often people are working remotely. It is important for everybody keep focus during development.
 
-I organize Milestones around small amount of tasks and limit them to one-two weeks. [GitHub Milestones](https://help.github.com/articles/about-milestones/) have all features needed to better manage your project like description, due date and completion percentage. These parameters are very handy during team meetups that take place on a due date of Milestone. 
+I organize Milestones around small amount of tasks and limit them to one-two weeks. [GitHub Milestones](https://help.github.com/articles/about-milestones/) have all features needed to better manage your project like list of issues, due date and completion percentage. These parameters are very handy during team meetups that take place on a due date of Milestone. 
+![github-milestone](/public/posts/github-milestone.png)
 
 Milestones like Sprints help project members communicate more effectively especially when working together remotely.
 
