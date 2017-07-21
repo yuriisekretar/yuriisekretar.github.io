@@ -1,6 +1,6 @@
 Project management is not always simple task for software developer. Developers used to a solutions built for them. But if such tool can combine hosting and reviewing code, managing projects, and building software in a teams - it will make road to successful project easier.
 
-Integrated project management was introduced by GitHub and basic functionality covered in the [GitHub documentation](https://help.github.com/categories/managing-your-work-on-github/). However, there are many ways to organize your work especially when multiple projects and repositories involved.
+Integrated project management was introduced by GitHub and basic functionality covered in the [GitHub documentation](https://help.github.com/categories/managing-your-work-on-github/). However, there are few tricks to organize your work especially when multiple projects and repositories involved.
 
 ## Adding an email address to your account
 
@@ -15,3 +15,14 @@ git config user.email "email@example.com"
 ```
 
 Now everytime you commit it will display correct username and email.
+
+## Scheduling releases and organizing versions in project
+ 
+Versions are very important points-in-time for a project. They help you schedule and organize your releases and your users expect new features or improvements with every new version. 
+
+Repository project boards are scoped to issues, pull requests, and notes within a single repository and they can be used for scheduling releases and organizing versions for current repository.
+
+To create a version simply add new Project with a name corresponding to the version, e.g. `v1.56`. Use Description to add details about new features or improvements current version will have. Description can be used in the future while creating release for a repository. 
+![github-project](/public/posts/github-project.png)
+
+Once a version is created and issues are assigned to it, use Project columns to organize your workflow. Great introduction to Projects you can read at [GitHub blog](https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features).
