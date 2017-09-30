@@ -1,10 +1,10 @@
 ---
 layout: page
-menu: About me
-title: About
-order: 1
+menu: My skills
+title: Design. Code. Infrastructure
+order: 2
 ---
-![banner_image](/public/banner_about.jpg)
+![banner_image](/public/dci_banner.png)
 
 Hey there! I'm Yurii Sekretar, a software engineer from Folsom, CA. I started this blog to share experience I get creating products that are used by thousands of people. Blog is about technical, design, social, management topics.
 
