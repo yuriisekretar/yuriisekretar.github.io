@@ -1,22 +1,16 @@
 ---
 layout: page
 menu: My skills
-title: Design. Code. Infrastructure
+title: My skills
 order: 2
 ---
-![banner_image](/public/dci_banner.png)
+I've spent the last years developing mobile applications and designing complex digital products. This experience allowed me to acquire wide range of skills as a software engineer. Building products from the start, releasing new features, analyzing customers' interactions, seeing how people use product and continuously improve it is what I love the most about my job!
 
-Hey there! I'm Yurii Sekretar, a software engineer from Folsom, CA. I started this blog to share experience I get creating products that are used by thousands of people. Blog is about technical, design, social, management topics.
+## Design
+To create a robust, scalable and flexible approach to designing products – I turned to a systems-thinking approach to design inspired by Brad Frost’s practice of <a href="http://bradfrost.com/blog/post/atomic-web-design/" target="_blank">Atomic Design</a>. By leveraging the Atomic Design principles of composable, reusable and modular design elements, as well as the powerful symbols functionality in Sketch, I was able to recognize the need to develop thoughtful design systems, rather than creating simple collections of screens and pages.
 
-I write code every day and this is where I get motivation. Because one line could change experience your users have with tool or services they use.
+## Code
+My approach is to make a broad plan, and then get creating. I build a small piece, test it, discuss it, refine plan, and then do the whole thing over again. Creations grow organically, gradually increasing in size and complexity. This gives me the freedom to adapt, incorporate new information, and launch the best product possible.
 
-## Bio
-I am working in software development over 14 years. Started as support person answering phone calls at SMS Content provider company in Ukraine and in 6 month developed CRM for whole support team so it made life of whole department easier and customers happy.
-
-I learned if there is a problem - better to dedicate time to learn about process, take time to automate it but result will always be satisfying.
-
-In 2009 I started company that sells SMS. Simple automation but hundreds of clients already using Bsender more then 8 years to stay in touch with their customers.
-
-My skills include Swift programming for mobile apps and Python for back- and front-end development.
-
-When I am not writing software, I love spending time with my family, cooking and playing tennis.
+## Infrastructure
+Building real-time applications is today standard that can become nightmare without right infrastructure. I start by defining the problem, plan ahead and consider that the simplest approach is often the best.

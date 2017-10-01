@@ -6,17 +6,12 @@ order: 1
 ---
 ![banner_image](/public/banner_about.jpg)
 
-Hey there! I'm Yurii Sekretar, a software engineer from Folsom, CA. I started this blog to share experience I get creating products that are used by thousands of people. Blog is about technical, design, social, management topics.
-
-I write code every day and this is where I get motivation. Because one line could change experience your users have with tool or services they use.
+I’m an enthusiastic software developer currently shaping the future of smart intercom at ButterflyMX, while living in California with my family. You can follow me on <a href="https://www.instagram.com/yuriisekretar" target="_blank">Instagram</a> and <a href="https://twitter.com/yuriisekretar" target="_blank">Twitter</a> or if you're interested in working with me write me an <a href="mailto:yuri.sekretar@gmail.com">email</a>.
 
 ## Bio
-I am working in software development over 14 years. Started as support person answering phone calls at SMS Content provider company in Ukraine and in 6 month developed CRM for whole support team so it made life of whole department easier and customers happy.
+Apart from leading Mobile Team at ButterflyMX where my team working on mobile app used by people to enter their homes, I also freelance for several companies and clients to help me understand how different people interact with different platforms and keep me up to date with fast growing technology world.
 
-I learned if there is a problem - better to dedicate time to learn about process, take time to automate it but result will always be satisfying.
 
-In 2009 I started company that sells SMS. Simple automation but hundreds of clients already using Bsender more then 8 years to stay in touch with their customers.
+I am working in software development over 14 years. Started as support team member answering phone calls and now creating software with effortless user experience.
 
-My skills include Swift programming for mobile apps and Python for back- and front-end development.
-
-When I am not writing software, I love spending time with my family, cooking and playing tennis.
+I learned if there is a problem - better to dedicate time to learn about process, take time to automate it and result will always be satisfying.
