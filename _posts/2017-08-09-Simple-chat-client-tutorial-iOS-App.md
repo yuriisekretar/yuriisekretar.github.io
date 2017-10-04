@@ -1,1 +1,6 @@
+---
+layout: post
+title: "Chat Client Tutorial: Simple iOS Application"
+---
+
 Project management is not always simple task for a software developer. Developers used to a solutions built for them. But if such tool can combine hosting and reviewing code, managing projects, and building software in a teams - it will make road to successful project easier.
