@@ -23,4 +23,4 @@ Two main screens where designed. One to rate an application using stars buttons.
 User had always chance to postpone review or choose not to give one. By giving user a choice we did not convert happy customer to angry one.
 
 ## Results
-Ratings increased to 4.2 stars in one month after introducing changes. We compared data collected by our internal API and ratings from the App Store and Google play and data was the same. Results proved that our users are happy customers and like using product.
+Ratings increased to 4.2 stars in one month after introducing the changes. We compared data collected by our internal API and ratings from the App Store and Google Play. Numbers were the same. Results proved that our users are happy customers and like using the product.
