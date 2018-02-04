@@ -1,7 +1,7 @@
 permalink:           pretty
 
 title:               Sekretar
-tagline:             'Soft and Hard'
+tagline:             'Hard and Soft'
 url:                 http://blog.sekretar.im
 baseurl:             ''
 paginate:            1
@@ -18,4 +18,3 @@ github:
   repo:           https://github.com/yuriisekretar/yuriisekretar.github.io
 
 gems:                [jekyll-paginate]
-
