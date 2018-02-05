@@ -3,22 +3,22 @@ layout: post
 title: "How to Increase your App Ratings and Improve Reviews"
 ---
 
-One of my recent projects has a very good success in their market. But their mobile application on the App Store and Google Play had average reviews. Ratings were not more than 2.9 stars.
+One of my recent projects has outstanding success in the market. However, its mobile application had rather average reviews on the App Store and Google Play. The ratings were not more than 2.9 stars.
 
-This is a common case for a product or service where users would not forgive any downtime. As an example, we can compare a cell phone service and a news application. Sometimes it happens when you read the news and latest one would not update. Most probably you will not pay attention to it and reload feed one more time. Sure you will not write a negative review. But in a case when you call somebody and/or receive a phone call you expect it to work on the first try. It is important for you at that specific time. If it does not work you become an angry customer. Now you would write a negative review.
+That is a typical case for a product or service in which the users would not accept any downtime. To give a better example, let's compare a cell phone service and a news application. It sometimes happens when reading the news, that the latest one would not update. You will probably pay no attention to this and just reload the feed one more time. So apparently, you will not write a negative review. However, in case you are calling somebody or receiving a phone call, you certainly expect it to work instantly because it is important for you at that specific moment. And surely, if it does not work, you will become an unsatisfied customer who would, therefore, write a negative review.
 
-## Identify happy customer
-My task was to make customers leave a positive review and rate application 4+ stars. As a result, a user should be redirected to the AppStore or Google Play to write a review. Challenge was to identify happy customers and offer them to rate an application. I built logic around the main feature of the service. If a user successfully leveraged it then his whole user experience was positive.
+## Identify a happy customer
+I had quite a challenging task to make the customers write positive reviews and rate the application 4+ stars. To identify happy customers, who will eventually rate an application, I have built the logic utilizing the main feature of the service, i.e., if the user successfully leveraged it, then his/her overall user experience was positive.
 
 ## Use clear design and always give a choice
-My team implemented simple and very effective user experience. Two main screens where designed. First one to rate an application using stars buttons. Data from the screen was collected by our internal API. Second screen appeared only in case user gave us 4+ starts rating.
+I have implemented a simple and very effective user experience. Thus, two main screens have been designed. The first one is to rate an application using the star buttons and collect the data from the screen by our internal API. The second screen only appears if the user rates us 4+ stars.
 
 ![github-email](/public/posts/rate_app.png)
 
-A user had always chance to postpone review or choose not to give one. By giving a user a choice we did not convert a happy customer into an angry one.
+The user should always be given a choice to postpone writing a review or choose not to give one. This, obviously, does not transform a happy customer into an angry one.
 
-## Find the right time to engage with user
-First interaction with the user was only after 5 times main feature was used successfully. At that point, a user was already done with the application. So he could dedicate time to write a review.
+## Find the right time to engage with a user
+In order to not bother the user while working with the application, our first interaction is after he has successfully used the main feature for five times. That is when the customer is already done using the app and could dedicate time to write a review.
 
 ## Results
-Ratings increased to 4.2 stars in one month after introducing the changes. We compared data collected by our internal API and ratings from the App Store and Google Play. Numbers were the same. Results proved that our users are happy customers and like using the product.
+One month after the changes had been introduced, the ratings have increased to 4.2 stars. The thorough comparison of the data from the internal API and ratings from the App Store and Google Play has proved that the users are happy customers and enjoy using the product.
