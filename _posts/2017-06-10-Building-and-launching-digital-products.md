@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Building and Launching Digital Products"
+description: "How do you build and launch digital products."
 ---
 
 I’ve written a lot of code, fixed a bunch of bugs and successfully launched hundreds of projects with the companies and clients I've worked for since 2003 when my career as a software developer began. I’ve decided to dedicate some of my time to blog on a topic I feel passionate about, namely, how do you build and launch digital products? I not only have a strong base of experience upon which to draw, but I continue experimenting and getting new feedback from current projects. My belief in transparency and culture of exchanging knowledge drives me to share what I’ve learned, what’s worked, what’s failed and what I’m still figuring out.

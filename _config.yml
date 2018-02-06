@@ -1,6 +1,7 @@
 permalink:           pretty
 
 title:               Sekretar
+description:         Blog about building and launching digital products
 tagline:             'Hard and Soft'
 url:                 http://blog.sekretar.im
 baseurl:             ''
@@ -17,4 +18,4 @@ version:             1.0.0
 github:
   repo:           https://github.com/yuriisekretar/yuriisekretar.github.io
 
-gems:                [jekyll-paginate]
+gems:                [jekyll-paginate, jekyll-seo-tag]

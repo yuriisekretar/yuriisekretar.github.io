@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Increase your App Ratings and Improve Reviews"
+description: "How to make the customers write positive reviews and rate the application 4+ stars."
 ---
 
 One of my recent projects has outstanding success in the market. However, its mobile application had rather average reviews on the App Store and Google Play. The ratings were not more than 2.9 stars.

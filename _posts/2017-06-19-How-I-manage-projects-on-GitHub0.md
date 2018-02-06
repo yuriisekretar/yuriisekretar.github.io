@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Manage Projects on GitHub"
+description: "GitHub Integrated Project Management. Build software more effectively and ship high-quality code."
 ---
 
 Project management is not always a simple task for a team lead. The market offers a lot of solutions built for managers, not for software developers. But what if those solutions could combine hosting and reviewing code, managing projects, tools for building software in teams?
